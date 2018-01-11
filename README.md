@@ -1,4 +1,5 @@
-
+This is a simple chat made with 4 angularjs, .net using websocket.
+The purpose of this project is to show how to make a chat doing the call to a webApi(controlles)
 
 ## How to use this Project
 
