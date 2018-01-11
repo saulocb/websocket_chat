@@ -1,0 +1,18 @@
+<div  *ngIf="msg.type == 0"  class="container">
+  <img src="http://image.minyanville.com/assets/FCK_Jan2011/Image/cory/a1.jpg" alt="Avatar">
+  <p> {{msg.texto}}</p>
+  <span class="time-right">{{msg.date | date:'MM-dd HH:mm:ss'}}</span>
+</div>
+
+<div *ngIf="msg.type == 1" class="container darker">
+    <img src="http://www.ccaribbean.com/wp-content/themes/directorypress/thumbs/Secretary.png" alt="Avatar" class="right">
+    <p>{{msg.texto}}!</p><br/>
+    <span class="time-left">{{msg.date}}</span>
+</div>
+
+
+
+
+
+
+

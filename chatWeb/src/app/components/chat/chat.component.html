@@ -1,0 +1,11 @@
+
+<div>
+  <div class="form-group">
+    <app-message  *ngFor="let msg of listMsg" [msg]='msg' ></app-message>
+  <label for="exampleTextarea">Menssage</label>
+    <textarea class="form-control" name = "chatText" id="exampleTextarea" [(ngModel)]="chatText" rows="3"></textarea>
+  </div>
+  <button type="button" (click)="chatSend()" class="btn btn-primary">Submit</button>
+</div>
+
+

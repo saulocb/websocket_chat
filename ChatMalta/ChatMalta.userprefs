@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{2DF48AA6-A6DA-4855-BD51-E94835AF6B6E}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Api/chatwebsocket/chatsocket.cs" relfile="ChatMalta.Api/chatwebsocket/chatsocket.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ChatMalta.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

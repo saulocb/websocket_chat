@@ -1,0 +1,17 @@
+C:/Leandro/Projects/ChatMalta/ChatMalta.Domain/bin/Debug/ChatMalta.Domain.dll
+C:/Leandro/Projects/ChatMalta/ChatMalta.Domain/bin/Debug/ChatMalta.Domain.pdb
+C:/Leandro/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.csprojResolveAssemblyReference.cache
+C:/Leandro/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.dll
+C:/Leandro/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.pdb
+/Users/saulosantos/Downloads/Projects/ChatMalta/ChatMalta.Domain/bin/Debug/ChatMalta.Domain.dll
+/Users/saulosantos/Downloads/Projects/ChatMalta/ChatMalta.Domain/bin/Debug/ChatMalta.Domain.pdb
+/Users/saulosantos/Downloads/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.csprojResolveAssemblyReference.cache
+/Users/saulosantos/Downloads/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.csproj.CoreCompileInputs.cache
+/Users/saulosantos/Downloads/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.dll
+/Users/saulosantos/Downloads/Projects/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.pdb
+/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Domain/bin/Debug/ChatMalta.Domain.dll
+/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Domain/bin/Debug/ChatMalta.Domain.pdb
+/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.csprojResolveAssemblyReference.cache
+/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.csproj.CoreCompileInputs.cache
+/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.dll
+/Users/saulosantos/Downloads/chatWebsocket/Chat/ChatMalta/ChatMalta.Domain/obj/Debug/ChatMalta.Domain.pdb
